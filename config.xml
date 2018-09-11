@@ -101,6 +101,9 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
+    <platform name="android">
+    <preference name="android-debuggable" value="false" />` 
+    </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
