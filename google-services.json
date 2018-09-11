@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "825899453045",
+    "firebase_url": "https://megatris-406f6.firebaseio.com",
+    "project_id": "megatris-406f6",
+    "storage_bucket": "megatris-406f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825899453045:android:1172a1f749ab5e6f",
+        "android_client_info": {
+          "package_name": "com.djb.megatrislite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825899453045-2t4mpo35eh2l7hp74eq6lmbnjbtbai12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbdLVMvTO6O_ibdaTEncJzVWnVTXG6iI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825899453045:android:8faef869b612c48b",
+        "android_client_info": {
+          "package_name": "com.miprogolmx.premiun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825899453045-2t4mpo35eh2l7hp74eq6lmbnjbtbai12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbdLVMvTO6O_ibdaTEncJzVWnVTXG6iI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
