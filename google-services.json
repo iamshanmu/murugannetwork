@@ -4,7 +4,7 @@
     "firebase_url": "https://megatris-406f6.firebaseio.com",
     "project_id": "megatris-406f6",
     "storage_bucket": "megatris-406f6.appspot.com"
-  },
+  }, 
   "client": [
     {
       "client_info": {
