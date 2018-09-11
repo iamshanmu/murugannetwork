@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.phonegap.murugannetworks" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MURUGAN NETWORKS</name>
     <description>
         MOBILE APPLICATION 
@@ -9,20 +9,21 @@
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="26" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#ee6e73" />
     <preference name="StatusBarStyle" value="blacktranslucent" />
     <preference name="android-build-tool" value="gradle" />
-    <preference name="android-debuggable" value="false" /> 
     <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.3" />
     <plugin name="phonegap-plugin-push" source="npm" spec="~1.8.0">
-        <variable name="SENDER_ID" value="AIzaSyDNgUprApaSXkvJdO4opwSpOk6ZdD5C1t0" />
+        <variable name="375160833480" value="bAVtkRFzQ_r4xhNMhAt4kuxt5A445PBzBxdD_I4PYF8" />
     </plugin>
     <plugin name="cordova-plugin-console" source="npm" spec="~1.0.3" />
     <plugin name="cordova-plugin-dialogs" source="npm" spec="~1.2.1" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
     <platform name="android">
+       <preference name="android-minSdkVersion" value="19" />
+       <preference name="android-targetSdkVersion" value="26" />
+       <preference name="android-debuggable" value="false" />
         <icon density="ldpi" src="www/mn/images/icon.png" />
         <icon density="mdpi" src="www/mn/images/icon.png" />
         <icon density="hdpi" src="www/mn/images/icon.png" />
